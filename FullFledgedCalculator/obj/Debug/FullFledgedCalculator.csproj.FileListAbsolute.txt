@@ -1,0 +1,7 @@
+F:\c#\projects\FullFledgedCalculator\bin\Debug\FullFledgedCalculator.exe.config
+F:\c#\projects\FullFledgedCalculator\bin\Debug\FullFledgedCalculator.exe
+F:\c#\projects\FullFledgedCalculator\bin\Debug\FullFledgedCalculator.pdb
+F:\c#\projects\FullFledgedCalculator\obj\Debug\FullFledgedCalculator.csproj.AssemblyReference.cache
+F:\c#\projects\FullFledgedCalculator\obj\Debug\FullFledgedCalculator.csproj.CoreCompileInputs.cache
+F:\c#\projects\FullFledgedCalculator\obj\Debug\FullFledgedCalculator.exe
+F:\c#\projects\FullFledgedCalculator\obj\Debug\FullFledgedCalculator.pdb
